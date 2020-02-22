@@ -13,7 +13,7 @@ function teenager(age) {
     return "You are not a teenager"
   }
 }
-
+console.log(teenager(12));
 function ageChecker(age) {
 
 }
